@@ -15,8 +15,7 @@ The REST API to the train app is described below.
 | Parameter | Type     | Description                                                                                                                                                |
 | :-------- | :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `limit`   | `string` | **Optional**. 
-| `type`    | `string` | **Optional**.                                 |
-| `q`       | `string` | **Optional**.                                                                                                        |
+| `type`    | `string` | **Optional**.                                
 
 #### Response
 
